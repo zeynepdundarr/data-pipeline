@@ -1,0 +1,54 @@
+{"_id": {"$oid": "6579242f54279e454d13c423"}, "logMessage": "[Date: 2023-12-13 06:24:11] [System] [Major] - Storage Health - Major issues detected, significant impact.", "logDate": {"$date": "2023-12-13T03:24:11Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c424"}, "logMessage": "[Date: 2023-12-13 06:24:11] [Application] [Warning] - Database Connection Issue - The application is consuming more memory than usual.", "logDate": {"$date": "2023-12-13T03:24:11Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c425"}, "logMessage": "[UserActivity] [2023-12-13 06:24:11] User665 viewed page on Homepage."}
+{"_id": {"$oid": "6579242f54279e454d13c426"}, "logMessage": "[UserActivity] [2023-12-13 06:24:13] User646 viewed page on Profile."}
+{"_id": {"$oid": "6579242f54279e454d13c427"}, "logMessage": "[Date: 2023-12-13 06:24:13] [Application] [Warning] - Authentication Problem - The application is close to exceeding its allocated resources.", "logDate": {"$date": "2023-12-13T03:24:13Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c428"}, "logMessage": "[Date: 2023-12-13 06:24:13] [System] [Major] - Cooling Health - Major issues detected, significant impact.", "logDate": {"$date": "2023-12-13T03:24:13Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c429"}, "logMessage": "[UserActivity] [2023-12-13 06:24:14] User879 logged in on Homepage."}
+{"_id": {"$oid": "6579242f54279e454d13c42a"}, "logMessage": "[Date: 2023-12-13 06:24:14] [System] [Unknown] - Total Used and Free Memory - No specific context available.", "logDate": {"$date": "2023-12-13T03:24:14Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c42b"}, "logMessage": "[Date: 2023-12-13 06:24:14] [Application] [Warning] - API Timeout - The application is consuming more memory than usual.", "logDate": {"$date": "2023-12-13T03:24:14Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c42c"}, "logMessage": "[UserActivity] [2023-12-13 06:24:15] User170 logged in on Product Page."}
+{"_id": {"$oid": "6579242f54279e454d13c42d"}, "logMessage": "[Date: 2023-12-13 06:24:15] [System] [Info] - Heap and Non-Heap Memory Usage - System status is normal.", "logDate": {"$date": "2023-12-13T03:24:15Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c42e"}, "logMessage": "[Date: 2023-12-13 06:24:15] [Application] [Error] - Configuration Issue - Unable to establish a connection to the database.", "logDate": {"$date": "2023-12-13T03:24:15Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c42f"}, "logMessage": "[Date: 2023-12-13 06:24:16] [System] [Unknown] - Cooling Health - No specific context available.", "logDate": {"$date": "2023-12-13T03:24:16Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c430"}, "logMessage": "[Date: 2023-12-13 06:24:16] [Application] [Warning] - Database Connection Issue - Some data entries are missing or incomplete.", "logDate": {"$date": "2023-12-13T03:24:16Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c431"}, "logMessage": "[UserActivity] [2023-12-13 06:24:16] User609 logged in on Product Page."}
+{"_id": {"$oid": "6579242f54279e454d13c432"}, "logMessage": "[UserActivity] [2023-12-13 06:24:17] User193 clicked item on Profile."}
+{"_id": {"$oid": "6579242f54279e454d13c433"}, "logMessage": "[Date: 2023-12-13 06:24:17] [Application] [Error] - Memory Usage Alert - The external API did not respond within the expected time frame.", "logDate": {"$date": "2023-12-13T03:24:17Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c434"}, "logMessage": "[Date: 2023-12-13 06:24:17] [System] [Critical] - Memory Swapping - Potential issues identified. Investigation required.", "logDate": {"$date": "2023-12-13T03:24:17Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c435"}, "logMessage": "[Date: 2023-12-13 06:24:18] [System] [Degraded] - Memory Health - No specific context available.", "logDate": {"$date": "2023-12-13T03:24:18Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c436"}, "logMessage": "[Date: 2023-12-13 06:24:18] [Application] [Error] - Incomplete Data - Unable to access the specified file.", "logDate": {"$date": "2023-12-13T03:24:18Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c437"}, "logMessage": "[UserActivity] [2023-12-13 06:24:18] User615 logged out on Checkout."}
+{"_id": {"$oid": "6579242f54279e454d13c438"}, "logMessage": "[UserActivity] [2023-12-13 06:24:19] User666 logged in on Profile."}
+{"_id": {"$oid": "6579242f54279e454d13c439"}, "logMessage": "[Date: 2023-12-13 06:24:19] [System] [Unknown] - Page Faults - No specific context available.", "logDate": {"$date": "2023-12-13T03:24:19Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c43a"}, "logMessage": "[Date: 2023-12-13 06:24:19] [Application] [Warning] - Authentication Problem - The current configuration may not be optimal.", "logDate": {"$date": "2023-12-13T03:24:19Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c43b"}, "logMessage": "[Date: 2023-12-13 06:24:20] [Application] [Warning] - Invalid User Input - The application is consuming more memory than usual.", "logDate": {"$date": "2023-12-13T03:24:20Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c43c"}, "logMessage": "[UserActivity] [2023-12-13 06:24:20] User193 logged out on Homepage."}
+{"_id": {"$oid": "6579242f54279e454d13c43d"}, "logMessage": "[Date: 2023-12-13 06:24:20] [System] [OK] - Resident Set Size (RSS) - No specific context available.", "logDate": {"$date": "2023-12-13T03:24:20Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c43e"}, "logMessage": "[UserActivity] [2023-12-13 06:24:21] User319 logged out on Profile."}
+{"_id": {"$oid": "6579242f54279e454d13c43f"}, "logMessage": "[Date: 2023-12-13 06:24:21] [System] [Unknown] - Shared and Private Memory - No specific context available.", "logDate": {"$date": "2023-12-13T03:24:21Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c440"}, "logMessage": "[Date: 2023-12-13 06:24:21] [Application] [Error] - Configuration Issue - Unable to establish a connection to the database.", "logDate": {"$date": "2023-12-13T03:24:21Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c441"}, "logMessage": "[UserActivity] [2023-12-13 06:24:22] User167 viewed page on Profile."}
+{"_id": {"$oid": "6579242f54279e454d13c442"}, "logMessage": "[Date: 2023-12-13 06:24:22] [System] [Degraded] - Memory Usage - No specific context available.", "logDate": {"$date": "2023-12-13T03:24:22Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c443"}, "logMessage": "[Date: 2023-12-13 06:24:22] [Application] [Warning] - Authentication Problem - The application is close to exceeding its allocated resources.", "logDate": {"$date": "2023-12-13T03:24:22Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c444"}, "logMessage": "[Date: 2023-12-13 06:24:23] [System] [Error] - Memory Fragmentation - Critical issues detected. Immediate action needed.", "logDate": {"$date": "2023-12-13T03:24:23Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c445"}, "logMessage": "[UserActivity] [2023-12-13 06:24:23] User541 viewed page on Product Page."}
+{"_id": {"$oid": "6579242f54279e454d13c446"}, "logMessage": "[Date: 2023-12-13 06:24:23] [Application] [Warning] - Authentication Problem - Some data entries are missing or incomplete.", "logDate": {"$date": "2023-12-13T03:24:23Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c447"}, "logMessage": "[UserActivity] [2023-12-13 06:24:24] User986 logged in on Product Page."}
+{"_id": {"$oid": "6579242f54279e454d13c448"}, "logMessage": "[Date: 2023-12-13 06:24:24] [System] [OK] - Memory Swapping - No specific context available.", "logDate": {"$date": "2023-12-13T03:24:24Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c449"}, "logMessage": "[Date: 2023-12-13 06:24:24] [Application] [Error] - Resource Limit Near - Unable to establish a connection to the database.", "logDate": {"$date": "2023-12-13T03:24:24Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c44a"}, "logMessage": "[Date: 2023-12-13 06:24:25] [System] [Major] - Memory Leaks - Potential system impact observed.", "logDate": {"$date": "2023-12-13T03:24:25Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c44b"}, "logMessage": "[Date: 2023-12-13 06:24:25] [Application] [Warning] - Invalid User Input - Detected use of a deprecated function or module.", "logDate": {"$date": "2023-12-13T03:24:25Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c44c"}, "logMessage": "[UserActivity] [2023-12-13 06:24:25] User394 logged out on Checkout."}
+{"_id": {"$oid": "6579242f54279e454d13c44d"}, "logMessage": "[UserActivity] [2023-12-13 06:24:26] User818 clicked item on Checkout."}
+{"_id": {"$oid": "6579242f54279e454d13c44e"}, "logMessage": "[Date: 2023-12-13 06:24:26] [Application] [Error] - Memory Usage Alert - Received malformed data in the user input.", "logDate": {"$date": "2023-12-13T03:24:26Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c44f"}, "logMessage": "[Date: 2023-12-13 06:24:26] [System] [OK] - Resident Set Size (RSS) - No specific context available.", "logDate": {"$date": "2023-12-13T03:24:26Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c450"}, "logMessage": "[UserActivity] [2023-12-13 06:24:27] User441 logged out on Profile."}
+{"_id": {"$oid": "6579242f54279e454d13c451"}, "logMessage": "[Date: 2023-12-13 06:24:27] [System] [OK] - Buffer Usage - No specific context available.", "logDate": {"$date": "2023-12-13T03:24:27Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c452"}, "logMessage": "[Date: 2023-12-13 06:24:27] [Application] [Warning] - File Access Error - The current configuration may not be optimal.", "logDate": {"$date": "2023-12-13T03:24:27Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c453"}, "logMessage": "[UserActivity] [2023-12-13 06:24:28] User232 logged out on Product Page."}
+{"_id": {"$oid": "6579242f54279e454d13c454"}, "logMessage": "[Date: 2023-12-13 06:24:28] [System] [Degraded] - CPU Health - No specific context available.", "logDate": {"$date": "2023-12-13T03:24:28Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c455"}, "logMessage": "[Date: 2023-12-13 06:24:28] [Application] [Warning] - API Timeout - The application is consuming more memory than usual.", "logDate": {"$date": "2023-12-13T03:24:28Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c456"}, "logMessage": "[UserActivity] [2023-12-13 06:24:29] User309 logged out on Product Page."}
+{"_id": {"$oid": "6579242f54279e454d13c457"}, "logMessage": "[Date: 2023-12-13 06:24:29] [Application] [Warning] - Invalid User Input - The application is consuming more memory than usual.", "logDate": {"$date": "2023-12-13T03:24:29Z"}}
+{"_id": {"$oid": "6579242f54279e454d13c458"}, "logMessage": "[Date: 2023-12-13 06:24:29] [System] [Major] - Heap and Non-Heap Memory Usage - Potential system impact observed.", "logDate": {"$date": "2023-12-13T03:24:29Z"}}
